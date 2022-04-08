@@ -50,6 +50,8 @@
 - Linux-  A bíblia
 - Os 7 hábitos das pessoas altamente eficazes - Stephen R. Covey
 - Código Limpo - Livro por Robert Cecil Martin
+- Refactoring: Improving the Design of Existing Code - Martin Fowler
+- Domain-Driven Design: Atacando as complexidades no coração do software -Eric Evans 
 - Levante se e fale - Dale Carnigie
 - Pachinko - Livro por Min Jin Lee
 
