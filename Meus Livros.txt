@@ -35,6 +35,7 @@
 
 /// Ordem dos Livros a Ler ///
 
+- HTML e CSS3 Domine a Web do futuro -  Lucas Mazza
 - Arrume a sua cama: Pequenas coisas que podem mudar a sua vida... E talvez o mundo - William H. McRaven
 - Musashi: O livro dos cinco anéis - Miyamoto Musashi  (Autor)
 - 12 regras para a vida: Um antídoto para o caos de Jordan B. Peterson
