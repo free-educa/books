@@ -22,6 +22,7 @@
 - Pense de novo: O poder de saber o que você não sabe de Adam Grant, Carolina Simmer
 - Ruído: Uma falha no julgamento humano de Daniel Kahneman, Olivier Sibony
 - Essencialismo de Greg Mckeown, Beatriz Medina
+- Sem esforço: Torne mais fácil o que é mais importante de Greg Mckeown
 - Mindset: A nova psicologia do sucesso - Carol S. Dweck
 - Rápido e Devagar: Duas Formas de Pensar -Livro por Daniel Kahneman
 - Os 7 hábitos das pessoas altamente eficazes - Stephen R. Covey
@@ -44,10 +45,13 @@
 - A Arte da Guerra - SUN TZU (Autor)
 - Introdução e boas práticas em UX Design Autor-Fabricio Teixeira
 - Pai Rico, Pai Pobre - Robert Kiyosaki
+- Uma gota de sangue: história do pensamento racial  por Demétrio Magnoli
+- Estado e capital na China por Renildo Souza
 - O bazar dos sonhos ruins - Livro por Stephen King
 - Inteligência Emocional - Daniel Goleman
 - Java: como programar Autor - P.J. Deitel
 - 1984 -George Orwell
+- A Recepção do Darwinismo no Brasil  por Heloisa Maria Bertol Domingues
 - Misery -  Autor: Stephen King
 - O retorno do cangaceiro JavaScript Autor - Flávio Almeida
 - Linux-  A bíblia
@@ -55,8 +59,12 @@
 - Código Limpo - Livro por Robert Cecil Martin
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
 - Domain-Driven Design: Atacando as complexidades no coração do software -Eric Evans 
+- Informação, conhecimento, ação autônoma e big data: continuidade ou revolução? por Daniel Martínez-Ávila
 - Levante se e fale - Dale Carnigie
 - Pachinko - Livro por Min Jin Lee
+- Ciência, política e relações internacionais: Ensaios sobre Paulo Carneiro por Marcos Chor Maio
+- Filosofia, política e cosmologia: ensaios sobre o renascimento  por Fabrina Magalhães Pinto
+- Progresso e Moral na Filosofia da História de Kant por Bruno Nadai 
 
 
 
