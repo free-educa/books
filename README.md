@@ -37,10 +37,6 @@ We've organized our books into various topics, making it easy for you to explore
 
 4. **Feedback:** If you have any feedback, suggestions, or requests for additional topics or books, please open an issue. Your input is highly valuable to us!
 
-## Contributing
-
-We believe in the power of collaboration and community-driven knowledge sharing. If you'd like to contribute a book, fix a typo, or suggest improvements to this repository, please check our [contribution guidelines](CONTRIBUTING.md) for more details.
-
 ## License
 
 All books in this repository are provided under various open-source licenses, and their respective licensing details can be found in each book's folder. Please respect the terms of these licenses when using and sharing the content.
@@ -60,4 +56,5 @@ Happy reading and happy coding!
 ![Closed PR's](https://img.shields.io/github/issues-pr-closed/free-educa/books.svg)
 
 <br>
+
 **📚Free-Educa Team**
