@@ -37,9 +37,6 @@ Organizamos nossos livros em vários tópicos, facilitando para você explorar a
 
 4. **Feedback:** Se você tem algum feedback, sugestões ou solicitações de tópicos ou livros adicionais, por favor, abra uma issue. Sua contribuição é muito valiosa para nós!
 
-## Licença
-
-Todos os livros neste repositório são fornecidos sob várias licenças open-source, e os detalhes das respectivas licenças podem ser encontrados na pasta de cada livro. Por favor, respeite os termos dessas licenças ao usar e compartilhar o conteúdo.
 
 Boa leitura e bom código!
 
